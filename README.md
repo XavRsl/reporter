@@ -41,7 +41,7 @@
   <h3 align="center">REPORTER</h3>
 
   <p align="center">
-    Generate and send reports from your database
+    Generate and send scheduled reports from your database
     <br />
     <a href="https://github.com/XavRsl/reporter"><strong>Explore the docs »</strong></a>
     <br />
@@ -76,16 +76,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+Reporter allows you to execute saved queries on a schedule and send reports to a list of emails.
+In my company, we use this Business Intelligence software that allow the edition of complex dashboards. We were also using it to execute queries and generate Excel reports that would be sent by email. While this is totally possible using this software, it is not meant to be used like that. And it makes the process of editing these reports hard. This is where the idea of a simple "reporter" came from. I wanted a centralized place to keep all my reports with a simple way to edit them, schedule them and track them.
 
 
 ### Built With
 
-* []()
+* [Laravel](https://laravel.com/)
 * []()
 * []()
 
