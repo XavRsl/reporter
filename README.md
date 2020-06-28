@@ -25,8 +25,8 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Issues][issues-shield]][https://github.com/XavRsl/reporter/issues]
+[![MIT License][license-shield]][https://github.com/XavRsl/reporter/blob/master/LICENSE]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
